@@ -1,4 +1,4 @@
-<img src="https://cdn.dribbble.com/users/2442115/screenshots/8699490/media/48bbda278683c7879bebd57f0e2f9271.gif" alt="react">
+<img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="react">
 <h1 align="center">Hi 👋, I'm Soren Sonstein</h1>
 2
 <h3 align="center">Your Friendly Neighborhood Software Engineer</h3>
