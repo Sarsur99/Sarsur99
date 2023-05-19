@@ -61,6 +61,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarsur99&show_icons=true&locale=en&layout=compact" alt="sarsur99" /></p>
 32
 ​
-No file chosen
-Attach files by dragging & dropping, selecting or pasting them.
-Editing README.md/README.md at main · Sarsur99/README.md · GitHub 
